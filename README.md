@@ -1,2 +1,2 @@
 # tributefreecodecamp.github.io
-It's a project of freecodecamp
+It is a FreeCodeCamp project about a tribute page.
